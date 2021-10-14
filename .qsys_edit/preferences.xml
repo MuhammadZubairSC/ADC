@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable filter="All Interfaces">
+  <columns>
+   <connections preferredWidth="159" />
+   <irq preferredWidth="34" />
+  </columns>
+ </systemtable>
+ <library
+   expandedCategories="Library/Basic Functions,Library/Basic Functions/Bridges and Adaptors/Reset,Library/University Program/Bridges,Library/University Program/Audio &amp; Video,Library/Basic Functions/Bridges and Adaptors/Memory Mapped,Library/Processors and Peripherals,Library/Interface Protocols/PCI Express,Library/Basic Functions/Bridges and Adaptors/Interrupt,Library/University Program,Library/Processors and Peripherals/Peripherals,Library/Basic Functions/Bridges and Adaptors/Clock,Library/Qsys Interconnect,Library/Processors and Peripherals/Hard Processor Components,Library,Library/Basic Functions/Bridges and Adaptors,Project,Library/Interface Protocols/PCI Express/QSYS Example Designs,Library/Interface Protocols,Library/Basic Functions/Configuration and Programming,Library/Qsys Interconnect/Tri-State Components,Library/University Program/Audio &amp; Video/Video" />
+ <window width="1465" height="869" x="665" y="98" />
+</preferences>
